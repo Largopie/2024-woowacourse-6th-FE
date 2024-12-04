@@ -48,11 +48,12 @@
 
 ## ✍️ 글쓰기 Writing
 
-| LEVEL | 제목                                                                                     |
-| ----- | ---------------------------------------------------------------------------------------- |
-| 1     | [나는 성장하고 있는가?](https://github.com/Largopie/woowa-writing/blob/level2/level1.md) |
-| 2     | [🌱 성장의 구체화](https://github.com/Largopie/woowa-writing/blob/level2/level2.md)      |
-| 3     | [협업](https://github.com/Largopie/woowa-writing/blob/level3/level3.md)                  |
+| LEVEL           | 제목                                                                                     |
+| --------------- | ---------------------------------------------------------------------------------------- |
+| 1               | [나는 성장하고 있는가?](https://github.com/Largopie/woowa-writing/blob/level2/level1.md) |
+| 2               | [🌱 성장의 구체화](https://github.com/Largopie/woowa-writing/blob/level2/level2.md)      |
+| 3               | [협업](https://github.com/Largopie/woowa-writing/blob/level3/level3.md)                  |
+| 테크니컬 라이팅 | [ESLint 알아보기](https://github.com/Largopie/woowa-writing/blob/technical/technical.md) |
 
 ## 🎥 테코톡 발표
 
